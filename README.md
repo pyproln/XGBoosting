@@ -1,3 +1,4 @@
-Hyperparameter fine-tuning with XGBoost + Optuna.
+This Repo is dedicated to understand almost everything about XGBoost. It has the following files. My attempt is to create an environment where everything about xgb is culminated.
 
-Find the notebook [here](https://www.kaggle.com/code/jsinghtechai/hyperparameter-fine-tuning-with-xgboost-optuna/edit)
+File-1- Hyperparameter fine-tuning with XGBoost + Optuna. In this my main focus is Optuna for hyperparameter tuning and XGBoosting for classication task.
+File-2- 
